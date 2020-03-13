@@ -1,0 +1,8 @@
+#include <iostream>
+ using namespace std;
+
+int main()
+{
+cout << "welcom to my program" endl;
+return 0;
+}
